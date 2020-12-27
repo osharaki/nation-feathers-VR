@@ -1,0 +1,1029 @@
+fileFormatVersion: 2
+guid: 3cdcb1204a49047c283d75c49267274a
+timeCreated: 1502479838
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Grass_0227
+    100002: Grass_0228
+    100004: //RootNode
+    100006: group1
+    100008: Joint_Grass
+    100010: Joint_Grass1
+    100012: Joint_Grass10
+    100014: Joint_Grass100
+    100016: Joint_Grass101
+    100018: Joint_Grass102
+    100020: Joint_Grass103
+    100022: Joint_Grass104
+    100024: Joint_Grass105
+    100026: Joint_Grass106
+    100028: Joint_Grass107
+    100030: Joint_Grass108
+    100032: Joint_Grass109
+    100034: Joint_Grass11
+    100036: Joint_Grass110
+    100038: Joint_Grass111
+    100040: Joint_Grass112
+    100042: Joint_Grass113
+    100044: Joint_Grass114
+    100046: Joint_Grass115
+    100048: Joint_Grass116
+    100050: Joint_Grass117
+    100052: Joint_Grass118
+    100054: Joint_Grass119
+    100056: Joint_Grass12
+    100058: Joint_Grass120
+    100060: Joint_Grass121
+    100062: Joint_Grass122
+    100064: Joint_Grass123
+    100066: Joint_Grass124
+    100068: Joint_Grass125
+    100070: Joint_Grass126
+    100072: Joint_Grass127
+    100074: Joint_Grass128
+    100076: Joint_Grass129
+    100078: Joint_Grass13
+    100080: Joint_Grass130
+    100082: Joint_Grass131
+    100084: Joint_Grass132
+    100086: Joint_Grass133
+    100088: Joint_Grass134
+    100090: Joint_Grass135
+    100092: Joint_Grass136
+    100094: Joint_Grass137
+    100096: Joint_Grass138
+    100098: Joint_Grass139
+    100100: Joint_Grass14
+    100102: Joint_Grass140
+    100104: Joint_Grass141
+    100106: Joint_Grass142
+    100108: Joint_Grass143
+    100110: Joint_Grass144
+    100112: Joint_Grass145
+    100114: Joint_Grass146
+    100116: Joint_Grass147
+    100118: Joint_Grass148
+    100120: Joint_Grass149
+    100122: Joint_Grass15
+    100124: Joint_Grass150
+    100126: Joint_Grass151
+    100128: Joint_Grass152
+    100130: Joint_Grass153
+    100132: Joint_Grass154
+    100134: Joint_Grass155
+    100136: Joint_Grass156
+    100138: Joint_Grass157
+    100140: Joint_Grass158
+    100142: Joint_Grass159
+    100144: Joint_Grass16
+    100146: Joint_Grass160
+    100148: Joint_Grass161
+    100150: Joint_Grass162
+    100152: Joint_Grass163
+    100154: Joint_Grass164
+    100156: Joint_Grass165
+    100158: Joint_Grass166
+    100160: Joint_Grass167
+    100162: Joint_Grass168
+    100164: Joint_Grass169
+    100166: Joint_Grass17
+    100168: Joint_Grass170
+    100170: Joint_Grass171
+    100172: Joint_Grass172
+    100174: Joint_Grass173
+    100176: Joint_Grass174
+    100178: Joint_Grass175
+    100180: Joint_Grass176
+    100182: Joint_Grass177
+    100184: Joint_Grass178
+    100186: Joint_Grass179
+    100188: Joint_Grass18
+    100190: Joint_Grass180
+    100192: Joint_Grass181
+    100194: Joint_Grass182
+    100196: Joint_Grass183
+    100198: Joint_Grass184
+    100200: Joint_Grass185
+    100202: Joint_Grass186
+    100204: Joint_Grass187
+    100206: Joint_Grass188
+    100208: Joint_Grass189
+    100210: Joint_Grass19
+    100212: Joint_Grass190
+    100214: Joint_Grass191
+    100216: Joint_Grass192
+    100218: Joint_Grass193
+    100220: Joint_Grass194
+    100222: Joint_Grass195
+    100224: Joint_Grass196
+    100226: Joint_Grass197
+    100228: Joint_Grass198
+    100230: Joint_Grass199
+    100232: Joint_Grass2
+    100234: Joint_Grass20
+    100236: Joint_Grass200
+    100238: Joint_Grass201
+    100240: Joint_Grass202
+    100242: Joint_Grass203
+    100244: Joint_Grass204
+    100246: Joint_Grass205
+    100248: Joint_Grass206
+    100250: Joint_Grass207
+    100252: Joint_Grass208
+    100254: Joint_Grass209
+    100256: Joint_Grass21
+    100258: Joint_Grass210
+    100260: Joint_Grass211
+    100262: Joint_Grass212
+    100264: Joint_Grass213
+    100266: Joint_Grass214
+    100268: Joint_Grass215
+    100270: Joint_Grass216
+    100272: Joint_Grass217
+    100274: Joint_Grass218
+    100276: Joint_Grass219
+    100278: Joint_Grass22
+    100280: Joint_Grass220
+    100282: Joint_Grass221
+    100284: Joint_Grass222
+    100286: Joint_Grass223
+    100288: Joint_Grass224
+    100290: Joint_Grass225
+    100292: Joint_Grass23
+    100294: Joint_Grass24
+    100296: Joint_Grass25
+    100298: Joint_Grass26
+    100300: Joint_Grass27
+    100302: Joint_Grass28
+    100304: Joint_Grass29
+    100306: Joint_Grass3
+    100308: Joint_Grass30
+    100310: Joint_Grass31
+    100312: Joint_Grass32
+    100314: Joint_Grass33
+    100316: Joint_Grass34
+    100318: Joint_Grass35
+    100320: Joint_Grass36
+    100322: Joint_Grass37
+    100324: Joint_Grass38
+    100326: Joint_Grass39
+    100328: Joint_Grass4
+    100330: Joint_Grass40
+    100332: Joint_Grass41
+    100334: Joint_Grass42
+    100336: Joint_Grass43
+    100338: Joint_Grass44
+    100340: Joint_Grass45
+    100342: Joint_Grass46
+    100344: Joint_Grass47
+    100346: Joint_Grass48
+    100348: Joint_Grass49
+    100350: Joint_Grass5
+    100352: Joint_Grass50
+    100354: Joint_Grass51
+    100356: Joint_Grass52
+    100358: Joint_Grass53
+    100360: Joint_Grass54
+    100362: Joint_Grass55
+    100364: Joint_Grass56
+    100366: Joint_Grass57
+    100368: Joint_Grass58
+    100370: Joint_Grass59
+    100372: Joint_Grass6
+    100374: Joint_Grass60
+    100376: Joint_Grass61
+    100378: Joint_Grass62
+    100380: Joint_Grass63
+    100382: Joint_Grass64
+    100384: Joint_Grass65
+    100386: Joint_Grass66
+    100388: Joint_Grass67
+    100390: Joint_Grass68
+    100392: Joint_Grass69
+    100394: Joint_Grass7
+    100396: Joint_Grass70
+    100398: Joint_Grass71
+    100400: Joint_Grass72
+    100402: Joint_Grass73
+    100404: Joint_Grass74
+    100406: Joint_Grass75
+    100408: Joint_Grass76
+    100410: Joint_Grass77
+    100412: Joint_Grass78
+    100414: Joint_Grass79
+    100416: Joint_Grass8
+    100418: Joint_Grass80
+    100420: Joint_Grass81
+    100422: Joint_Grass82
+    100424: Joint_Grass83
+    100426: Joint_Grass84
+    100428: Joint_Grass85
+    100430: Joint_Grass86
+    100432: Joint_Grass87
+    100434: Joint_Grass88
+    100436: Joint_Grass89
+    100438: Joint_Grass9
+    100440: Joint_Grass90
+    100442: Joint_Grass91
+    100444: Joint_Grass92
+    100446: Joint_Grass93
+    100448: Joint_Grass94
+    100450: Joint_Grass95
+    100452: Joint_Grass96
+    100454: Joint_Grass97
+    100456: Joint_Grass98
+    100458: Joint_Grass99
+    100460: Joint_Waste
+    100462: Joint_Waste 1
+    100464: Joint_Waste 10
+    100466: Joint_Waste 100
+    100468: Joint_Waste 101
+    100470: Joint_Waste 102
+    100472: Joint_Waste 103
+    100474: Joint_Waste 104
+    100476: Joint_Waste 105
+    100478: Joint_Waste 106
+    100480: Joint_Waste 107
+    100482: Joint_Waste 108
+    100484: Joint_Waste 109
+    100486: Joint_Waste 11
+    100488: Joint_Waste 110
+    100490: Joint_Waste 111
+    100492: Joint_Waste 112
+    100494: Joint_Waste 113
+    100496: Joint_Waste 114
+    100498: Joint_Waste 115
+    100500: Joint_Waste 116
+    100502: Joint_Waste 117
+    100504: Joint_Waste 118
+    100506: Joint_Waste 119
+    100508: Joint_Waste 12
+    100510: Joint_Waste 120
+    100512: Joint_Waste 121
+    100514: Joint_Waste 122
+    100516: Joint_Waste 123
+    100518: Joint_Waste 124
+    100520: Joint_Waste 125
+    100522: Joint_Waste 126
+    100524: Joint_Waste 127
+    100526: Joint_Waste 128
+    100528: Joint_Waste 129
+    100530: Joint_Waste 13
+    100532: Joint_Waste 130
+    100534: Joint_Waste 131
+    100536: Joint_Waste 132
+    100538: Joint_Waste 133
+    100540: Joint_Waste 134
+    100542: Joint_Waste 135
+    100544: Joint_Waste 136
+    100546: Joint_Waste 137
+    100548: Joint_Waste 138
+    100550: Joint_Waste 139
+    100552: Joint_Waste 14
+    100554: Joint_Waste 140
+    100556: Joint_Waste 141
+    100558: Joint_Waste 142
+    100560: Joint_Waste 143
+    100562: Joint_Waste 144
+    100564: Joint_Waste 145
+    100566: Joint_Waste 146
+    100568: Joint_Waste 147
+    100570: Joint_Waste 148
+    100572: Joint_Waste 149
+    100574: Joint_Waste 15
+    100576: Joint_Waste 150
+    100578: Joint_Waste 151
+    100580: Joint_Waste 152
+    100582: Joint_Waste 153
+    100584: Joint_Waste 154
+    100586: Joint_Waste 155
+    100588: Joint_Waste 156
+    100590: Joint_Waste 157
+    100592: Joint_Waste 158
+    100594: Joint_Waste 159
+    100596: Joint_Waste 16
+    100598: Joint_Waste 160
+    100600: Joint_Waste 161
+    100602: Joint_Waste 162
+    100604: Joint_Waste 163
+    100606: Joint_Waste 164
+    100608: Joint_Waste 165
+    100610: Joint_Waste 166
+    100612: Joint_Waste 167
+    100614: Joint_Waste 168
+    100616: Joint_Waste 169
+    100618: Joint_Waste 17
+    100620: Joint_Waste 170
+    100622: Joint_Waste 171
+    100624: Joint_Waste 172
+    100626: Joint_Waste 173
+    100628: Joint_Waste 174
+    100630: Joint_Waste 175
+    100632: Joint_Waste 176
+    100634: Joint_Waste 177
+    100636: Joint_Waste 178
+    100638: Joint_Waste 179
+    100640: Joint_Waste 18
+    100642: Joint_Waste 180
+    100644: Joint_Waste 181
+    100646: Joint_Waste 182
+    100648: Joint_Waste 183
+    100650: Joint_Waste 184
+    100652: Joint_Waste 185
+    100654: Joint_Waste 186
+    100656: Joint_Waste 187
+    100658: Joint_Waste 188
+    100660: Joint_Waste 189
+    100662: Joint_Waste 19
+    100664: Joint_Waste 190
+    100666: Joint_Waste 191
+    100668: Joint_Waste 192
+    100670: Joint_Waste 193
+    100672: Joint_Waste 194
+    100674: Joint_Waste 195
+    100676: Joint_Waste 196
+    100678: Joint_Waste 197
+    100680: Joint_Waste 198
+    100682: Joint_Waste 199
+    100684: Joint_Waste 2
+    100686: Joint_Waste 20
+    100688: Joint_Waste 200
+    100690: Joint_Waste 201
+    100692: Joint_Waste 202
+    100694: Joint_Waste 203
+    100696: Joint_Waste 204
+    100698: Joint_Waste 205
+    100700: Joint_Waste 206
+    100702: Joint_Waste 207
+    100704: Joint_Waste 208
+    100706: Joint_Waste 209
+    100708: Joint_Waste 21
+    100710: Joint_Waste 210
+    100712: Joint_Waste 211
+    100714: Joint_Waste 212
+    100716: Joint_Waste 213
+    100718: Joint_Waste 214
+    100720: Joint_Waste 215
+    100722: Joint_Waste 216
+    100724: Joint_Waste 217
+    100726: Joint_Waste 218
+    100728: Joint_Waste 219
+    100730: Joint_Waste 22
+    100732: Joint_Waste 220
+    100734: Joint_Waste 221
+    100736: Joint_Waste 222
+    100738: Joint_Waste 223
+    100740: Joint_Waste 224
+    100742: Joint_Waste 225
+    100744: Joint_Waste 23
+    100746: Joint_Waste 24
+    100748: Joint_Waste 25
+    100750: Joint_Waste 26
+    100752: Joint_Waste 27
+    100754: Joint_Waste 28
+    100756: Joint_Waste 29
+    100758: Joint_Waste 3
+    100760: Joint_Waste 30
+    100762: Joint_Waste 31
+    100764: Joint_Waste 32
+    100766: Joint_Waste 33
+    100768: Joint_Waste 34
+    100770: Joint_Waste 35
+    100772: Joint_Waste 36
+    100774: Joint_Waste 37
+    100776: Joint_Waste 38
+    100778: Joint_Waste 39
+    100780: Joint_Waste 4
+    100782: Joint_Waste 40
+    100784: Joint_Waste 41
+    100786: Joint_Waste 42
+    100788: Joint_Waste 43
+    100790: Joint_Waste 44
+    100792: Joint_Waste 45
+    100794: Joint_Waste 46
+    100796: Joint_Waste 47
+    100798: Joint_Waste 48
+    100800: Joint_Waste 49
+    100802: Joint_Waste 5
+    100804: Joint_Waste 50
+    100806: Joint_Waste 51
+    100808: Joint_Waste 52
+    100810: Joint_Waste 53
+    100812: Joint_Waste 54
+    100814: Joint_Waste 55
+    100816: Joint_Waste 56
+    100818: Joint_Waste 57
+    100820: Joint_Waste 58
+    100822: Joint_Waste 59
+    100824: Joint_Waste 6
+    100826: Joint_Waste 60
+    100828: Joint_Waste 61
+    100830: Joint_Waste 62
+    100832: Joint_Waste 63
+    100834: Joint_Waste 64
+    100836: Joint_Waste 65
+    100838: Joint_Waste 66
+    100840: Joint_Waste 67
+    100842: Joint_Waste 68
+    100844: Joint_Waste 69
+    100846: Joint_Waste 7
+    100848: Joint_Waste 70
+    100850: Joint_Waste 71
+    100852: Joint_Waste 72
+    100854: Joint_Waste 73
+    100856: Joint_Waste 74
+    100858: Joint_Waste 75
+    100860: Joint_Waste 76
+    100862: Joint_Waste 77
+    100864: Joint_Waste 78
+    100866: Joint_Waste 79
+    100868: Joint_Waste 8
+    100870: Joint_Waste 80
+    100872: Joint_Waste 81
+    100874: Joint_Waste 82
+    100876: Joint_Waste 83
+    100878: Joint_Waste 84
+    100880: Joint_Waste 85
+    100882: Joint_Waste 86
+    100884: Joint_Waste 87
+    100886: Joint_Waste 88
+    100888: Joint_Waste 89
+    100890: Joint_Waste 9
+    100892: Joint_Waste 90
+    100894: Joint_Waste 91
+    100896: Joint_Waste 92
+    100898: Joint_Waste 93
+    100900: Joint_Waste 94
+    100902: Joint_Waste 95
+    100904: Joint_Waste 96
+    100906: Joint_Waste 97
+    100908: Joint_Waste 98
+    100910: Joint_Waste 99
+    400000: Grass_0227
+    400002: Grass_0228
+    400004: //RootNode
+    400006: group1
+    400008: Joint_Grass
+    400010: Joint_Grass1
+    400012: Joint_Grass10
+    400014: Joint_Grass100
+    400016: Joint_Grass101
+    400018: Joint_Grass102
+    400020: Joint_Grass103
+    400022: Joint_Grass104
+    400024: Joint_Grass105
+    400026: Joint_Grass106
+    400028: Joint_Grass107
+    400030: Joint_Grass108
+    400032: Joint_Grass109
+    400034: Joint_Grass11
+    400036: Joint_Grass110
+    400038: Joint_Grass111
+    400040: Joint_Grass112
+    400042: Joint_Grass113
+    400044: Joint_Grass114
+    400046: Joint_Grass115
+    400048: Joint_Grass116
+    400050: Joint_Grass117
+    400052: Joint_Grass118
+    400054: Joint_Grass119
+    400056: Joint_Grass12
+    400058: Joint_Grass120
+    400060: Joint_Grass121
+    400062: Joint_Grass122
+    400064: Joint_Grass123
+    400066: Joint_Grass124
+    400068: Joint_Grass125
+    400070: Joint_Grass126
+    400072: Joint_Grass127
+    400074: Joint_Grass128
+    400076: Joint_Grass129
+    400078: Joint_Grass13
+    400080: Joint_Grass130
+    400082: Joint_Grass131
+    400084: Joint_Grass132
+    400086: Joint_Grass133
+    400088: Joint_Grass134
+    400090: Joint_Grass135
+    400092: Joint_Grass136
+    400094: Joint_Grass137
+    400096: Joint_Grass138
+    400098: Joint_Grass139
+    400100: Joint_Grass14
+    400102: Joint_Grass140
+    400104: Joint_Grass141
+    400106: Joint_Grass142
+    400108: Joint_Grass143
+    400110: Joint_Grass144
+    400112: Joint_Grass145
+    400114: Joint_Grass146
+    400116: Joint_Grass147
+    400118: Joint_Grass148
+    400120: Joint_Grass149
+    400122: Joint_Grass15
+    400124: Joint_Grass150
+    400126: Joint_Grass151
+    400128: Joint_Grass152
+    400130: Joint_Grass153
+    400132: Joint_Grass154
+    400134: Joint_Grass155
+    400136: Joint_Grass156
+    400138: Joint_Grass157
+    400140: Joint_Grass158
+    400142: Joint_Grass159
+    400144: Joint_Grass16
+    400146: Joint_Grass160
+    400148: Joint_Grass161
+    400150: Joint_Grass162
+    400152: Joint_Grass163
+    400154: Joint_Grass164
+    400156: Joint_Grass165
+    400158: Joint_Grass166
+    400160: Joint_Grass167
+    400162: Joint_Grass168
+    400164: Joint_Grass169
+    400166: Joint_Grass17
+    400168: Joint_Grass170
+    400170: Joint_Grass171
+    400172: Joint_Grass172
+    400174: Joint_Grass173
+    400176: Joint_Grass174
+    400178: Joint_Grass175
+    400180: Joint_Grass176
+    400182: Joint_Grass177
+    400184: Joint_Grass178
+    400186: Joint_Grass179
+    400188: Joint_Grass18
+    400190: Joint_Grass180
+    400192: Joint_Grass181
+    400194: Joint_Grass182
+    400196: Joint_Grass183
+    400198: Joint_Grass184
+    400200: Joint_Grass185
+    400202: Joint_Grass186
+    400204: Joint_Grass187
+    400206: Joint_Grass188
+    400208: Joint_Grass189
+    400210: Joint_Grass19
+    400212: Joint_Grass190
+    400214: Joint_Grass191
+    400216: Joint_Grass192
+    400218: Joint_Grass193
+    400220: Joint_Grass194
+    400222: Joint_Grass195
+    400224: Joint_Grass196
+    400226: Joint_Grass197
+    400228: Joint_Grass198
+    400230: Joint_Grass199
+    400232: Joint_Grass2
+    400234: Joint_Grass20
+    400236: Joint_Grass200
+    400238: Joint_Grass201
+    400240: Joint_Grass202
+    400242: Joint_Grass203
+    400244: Joint_Grass204
+    400246: Joint_Grass205
+    400248: Joint_Grass206
+    400250: Joint_Grass207
+    400252: Joint_Grass208
+    400254: Joint_Grass209
+    400256: Joint_Grass21
+    400258: Joint_Grass210
+    400260: Joint_Grass211
+    400262: Joint_Grass212
+    400264: Joint_Grass213
+    400266: Joint_Grass214
+    400268: Joint_Grass215
+    400270: Joint_Grass216
+    400272: Joint_Grass217
+    400274: Joint_Grass218
+    400276: Joint_Grass219
+    400278: Joint_Grass22
+    400280: Joint_Grass220
+    400282: Joint_Grass221
+    400284: Joint_Grass222
+    400286: Joint_Grass223
+    400288: Joint_Grass224
+    400290: Joint_Grass225
+    400292: Joint_Grass23
+    400294: Joint_Grass24
+    400296: Joint_Grass25
+    400298: Joint_Grass26
+    400300: Joint_Grass27
+    400302: Joint_Grass28
+    400304: Joint_Grass29
+    400306: Joint_Grass3
+    400308: Joint_Grass30
+    400310: Joint_Grass31
+    400312: Joint_Grass32
+    400314: Joint_Grass33
+    400316: Joint_Grass34
+    400318: Joint_Grass35
+    400320: Joint_Grass36
+    400322: Joint_Grass37
+    400324: Joint_Grass38
+    400326: Joint_Grass39
+    400328: Joint_Grass4
+    400330: Joint_Grass40
+    400332: Joint_Grass41
+    400334: Joint_Grass42
+    400336: Joint_Grass43
+    400338: Joint_Grass44
+    400340: Joint_Grass45
+    400342: Joint_Grass46
+    400344: Joint_Grass47
+    400346: Joint_Grass48
+    400348: Joint_Grass49
+    400350: Joint_Grass5
+    400352: Joint_Grass50
+    400354: Joint_Grass51
+    400356: Joint_Grass52
+    400358: Joint_Grass53
+    400360: Joint_Grass54
+    400362: Joint_Grass55
+    400364: Joint_Grass56
+    400366: Joint_Grass57
+    400368: Joint_Grass58
+    400370: Joint_Grass59
+    400372: Joint_Grass6
+    400374: Joint_Grass60
+    400376: Joint_Grass61
+    400378: Joint_Grass62
+    400380: Joint_Grass63
+    400382: Joint_Grass64
+    400384: Joint_Grass65
+    400386: Joint_Grass66
+    400388: Joint_Grass67
+    400390: Joint_Grass68
+    400392: Joint_Grass69
+    400394: Joint_Grass7
+    400396: Joint_Grass70
+    400398: Joint_Grass71
+    400400: Joint_Grass72
+    400402: Joint_Grass73
+    400404: Joint_Grass74
+    400406: Joint_Grass75
+    400408: Joint_Grass76
+    400410: Joint_Grass77
+    400412: Joint_Grass78
+    400414: Joint_Grass79
+    400416: Joint_Grass8
+    400418: Joint_Grass80
+    400420: Joint_Grass81
+    400422: Joint_Grass82
+    400424: Joint_Grass83
+    400426: Joint_Grass84
+    400428: Joint_Grass85
+    400430: Joint_Grass86
+    400432: Joint_Grass87
+    400434: Joint_Grass88
+    400436: Joint_Grass89
+    400438: Joint_Grass9
+    400440: Joint_Grass90
+    400442: Joint_Grass91
+    400444: Joint_Grass92
+    400446: Joint_Grass93
+    400448: Joint_Grass94
+    400450: Joint_Grass95
+    400452: Joint_Grass96
+    400454: Joint_Grass97
+    400456: Joint_Grass98
+    400458: Joint_Grass99
+    400460: Joint_Waste
+    400462: Joint_Waste 1
+    400464: Joint_Waste 10
+    400466: Joint_Waste 100
+    400468: Joint_Waste 101
+    400470: Joint_Waste 102
+    400472: Joint_Waste 103
+    400474: Joint_Waste 104
+    400476: Joint_Waste 105
+    400478: Joint_Waste 106
+    400480: Joint_Waste 107
+    400482: Joint_Waste 108
+    400484: Joint_Waste 109
+    400486: Joint_Waste 11
+    400488: Joint_Waste 110
+    400490: Joint_Waste 111
+    400492: Joint_Waste 112
+    400494: Joint_Waste 113
+    400496: Joint_Waste 114
+    400498: Joint_Waste 115
+    400500: Joint_Waste 116
+    400502: Joint_Waste 117
+    400504: Joint_Waste 118
+    400506: Joint_Waste 119
+    400508: Joint_Waste 12
+    400510: Joint_Waste 120
+    400512: Joint_Waste 121
+    400514: Joint_Waste 122
+    400516: Joint_Waste 123
+    400518: Joint_Waste 124
+    400520: Joint_Waste 125
+    400522: Joint_Waste 126
+    400524: Joint_Waste 127
+    400526: Joint_Waste 128
+    400528: Joint_Waste 129
+    400530: Joint_Waste 13
+    400532: Joint_Waste 130
+    400534: Joint_Waste 131
+    400536: Joint_Waste 132
+    400538: Joint_Waste 133
+    400540: Joint_Waste 134
+    400542: Joint_Waste 135
+    400544: Joint_Waste 136
+    400546: Joint_Waste 137
+    400548: Joint_Waste 138
+    400550: Joint_Waste 139
+    400552: Joint_Waste 14
+    400554: Joint_Waste 140
+    400556: Joint_Waste 141
+    400558: Joint_Waste 142
+    400560: Joint_Waste 143
+    400562: Joint_Waste 144
+    400564: Joint_Waste 145
+    400566: Joint_Waste 146
+    400568: Joint_Waste 147
+    400570: Joint_Waste 148
+    400572: Joint_Waste 149
+    400574: Joint_Waste 15
+    400576: Joint_Waste 150
+    400578: Joint_Waste 151
+    400580: Joint_Waste 152
+    400582: Joint_Waste 153
+    400584: Joint_Waste 154
+    400586: Joint_Waste 155
+    400588: Joint_Waste 156
+    400590: Joint_Waste 157
+    400592: Joint_Waste 158
+    400594: Joint_Waste 159
+    400596: Joint_Waste 16
+    400598: Joint_Waste 160
+    400600: Joint_Waste 161
+    400602: Joint_Waste 162
+    400604: Joint_Waste 163
+    400606: Joint_Waste 164
+    400608: Joint_Waste 165
+    400610: Joint_Waste 166
+    400612: Joint_Waste 167
+    400614: Joint_Waste 168
+    400616: Joint_Waste 169
+    400618: Joint_Waste 17
+    400620: Joint_Waste 170
+    400622: Joint_Waste 171
+    400624: Joint_Waste 172
+    400626: Joint_Waste 173
+    400628: Joint_Waste 174
+    400630: Joint_Waste 175
+    400632: Joint_Waste 176
+    400634: Joint_Waste 177
+    400636: Joint_Waste 178
+    400638: Joint_Waste 179
+    400640: Joint_Waste 18
+    400642: Joint_Waste 180
+    400644: Joint_Waste 181
+    400646: Joint_Waste 182
+    400648: Joint_Waste 183
+    400650: Joint_Waste 184
+    400652: Joint_Waste 185
+    400654: Joint_Waste 186
+    400656: Joint_Waste 187
+    400658: Joint_Waste 188
+    400660: Joint_Waste 189
+    400662: Joint_Waste 19
+    400664: Joint_Waste 190
+    400666: Joint_Waste 191
+    400668: Joint_Waste 192
+    400670: Joint_Waste 193
+    400672: Joint_Waste 194
+    400674: Joint_Waste 195
+    400676: Joint_Waste 196
+    400678: Joint_Waste 197
+    400680: Joint_Waste 198
+    400682: Joint_Waste 199
+    400684: Joint_Waste 2
+    400686: Joint_Waste 20
+    400688: Joint_Waste 200
+    400690: Joint_Waste 201
+    400692: Joint_Waste 202
+    400694: Joint_Waste 203
+    400696: Joint_Waste 204
+    400698: Joint_Waste 205
+    400700: Joint_Waste 206
+    400702: Joint_Waste 207
+    400704: Joint_Waste 208
+    400706: Joint_Waste 209
+    400708: Joint_Waste 21
+    400710: Joint_Waste 210
+    400712: Joint_Waste 211
+    400714: Joint_Waste 212
+    400716: Joint_Waste 213
+    400718: Joint_Waste 214
+    400720: Joint_Waste 215
+    400722: Joint_Waste 216
+    400724: Joint_Waste 217
+    400726: Joint_Waste 218
+    400728: Joint_Waste 219
+    400730: Joint_Waste 22
+    400732: Joint_Waste 220
+    400734: Joint_Waste 221
+    400736: Joint_Waste 222
+    400738: Joint_Waste 223
+    400740: Joint_Waste 224
+    400742: Joint_Waste 225
+    400744: Joint_Waste 23
+    400746: Joint_Waste 24
+    400748: Joint_Waste 25
+    400750: Joint_Waste 26
+    400752: Joint_Waste 27
+    400754: Joint_Waste 28
+    400756: Joint_Waste 29
+    400758: Joint_Waste 3
+    400760: Joint_Waste 30
+    400762: Joint_Waste 31
+    400764: Joint_Waste 32
+    400766: Joint_Waste 33
+    400768: Joint_Waste 34
+    400770: Joint_Waste 35
+    400772: Joint_Waste 36
+    400774: Joint_Waste 37
+    400776: Joint_Waste 38
+    400778: Joint_Waste 39
+    400780: Joint_Waste 4
+    400782: Joint_Waste 40
+    400784: Joint_Waste 41
+    400786: Joint_Waste 42
+    400788: Joint_Waste 43
+    400790: Joint_Waste 44
+    400792: Joint_Waste 45
+    400794: Joint_Waste 46
+    400796: Joint_Waste 47
+    400798: Joint_Waste 48
+    400800: Joint_Waste 49
+    400802: Joint_Waste 5
+    400804: Joint_Waste 50
+    400806: Joint_Waste 51
+    400808: Joint_Waste 52
+    400810: Joint_Waste 53
+    400812: Joint_Waste 54
+    400814: Joint_Waste 55
+    400816: Joint_Waste 56
+    400818: Joint_Waste 57
+    400820: Joint_Waste 58
+    400822: Joint_Waste 59
+    400824: Joint_Waste 6
+    400826: Joint_Waste 60
+    400828: Joint_Waste 61
+    400830: Joint_Waste 62
+    400832: Joint_Waste 63
+    400834: Joint_Waste 64
+    400836: Joint_Waste 65
+    400838: Joint_Waste 66
+    400840: Joint_Waste 67
+    400842: Joint_Waste 68
+    400844: Joint_Waste 69
+    400846: Joint_Waste 7
+    400848: Joint_Waste 70
+    400850: Joint_Waste 71
+    400852: Joint_Waste 72
+    400854: Joint_Waste 73
+    400856: Joint_Waste 74
+    400858: Joint_Waste 75
+    400860: Joint_Waste 76
+    400862: Joint_Waste 77
+    400864: Joint_Waste 78
+    400866: Joint_Waste 79
+    400868: Joint_Waste 8
+    400870: Joint_Waste 80
+    400872: Joint_Waste 81
+    400874: Joint_Waste 82
+    400876: Joint_Waste 83
+    400878: Joint_Waste 84
+    400880: Joint_Waste 85
+    400882: Joint_Waste 86
+    400884: Joint_Waste 87
+    400886: Joint_Waste 88
+    400888: Joint_Waste 89
+    400890: Joint_Waste 9
+    400892: Joint_Waste 90
+    400894: Joint_Waste 91
+    400896: Joint_Waste 92
+    400898: Joint_Waste 93
+    400900: Joint_Waste 94
+    400902: Joint_Waste 95
+    400904: Joint_Waste 96
+    400906: Joint_Waste 97
+    400908: Joint_Waste 98
+    400910: Joint_Waste 99
+    4300000: Grass_0227
+    4300002: Grass_0228
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Grass_0227
+    13700002: Grass_0228
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 200
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
