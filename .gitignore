@@ -1,0 +1,12 @@
+#https://stackoverflow.com/questions/30721459/unity-projects-gitignore-is-ignoring-meta-files?noredirect=1&lq=1
+#https://stackoverflow.com/questions/21573405/how-to-prepare-a-unity-project-for-git#21573406
+
+# Ignore Everything
+/*
+
+# Except for these:
+!/.gitignore
+!/Assets
+!/ProjectSettings
+!/README.md
+!/bachelor_thesis.pdf
