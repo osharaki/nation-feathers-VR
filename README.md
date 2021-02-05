@@ -1,7 +1,7 @@
 ![](Assets/Icons/NFVRv2_Logo.png)
 **Nation Feathers VR** is a mobile VR learning game for identifying bird
 vocalizations developed with Unity in 2017 in
-the context of a [bachelor thesis](bachelor_thesis.png) at the [Cornell Lab of
+the context of a [bachelor thesis](bachelor_thesis.pdf) at the [Cornell Lab of
 Ornithology](https://www.birds.cornell.edu/home/).
 
 Watch a
